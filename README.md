@@ -124,7 +124,7 @@
 
 2. **进入项目目录**
    ```
-   cd C:\Users\Administrator\CodeBuddy\zhanghaoguanli
+   cd C:\Users\Administrator\desktop\zhanghaoguanli
    ```
 
 3. **执行编译**
@@ -220,7 +220,7 @@
 **情况二：改了 Java 源文件（.java 文件）**
 ```
 # 1. 在项目根目录重新编译
-cd C:\Users\Administrator\CodeBuddy\zhanghaoguanli
+cd C:\Users\Administrator\desktop\zhanghaoguanli
 build.bat
 
 # 2. 关闭 Tomcat（关闭 startup.bat 的黑窗口）
